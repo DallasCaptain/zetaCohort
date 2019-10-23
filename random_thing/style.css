@@ -1,0 +1,12 @@
+.add{
+    padding-top: 10px;
+    display: inline-block;
+    width: 200px;
+    background-image: url("puppy.jpg");
+}
+
+div img,button{
+    display: block;
+    margin: 0 auto;
+    height: 80px;
+}

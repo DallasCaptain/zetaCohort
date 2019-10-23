@@ -1,0 +1,32 @@
+*{
+    border: 1px solid pink;
+}
+
+
+body{
+    background-color: firebrick;
+}
+
+.golden_text{
+    color: goldenrod;
+    border: 2px indigo solid;
+}
+.green_text{
+    color: green;
+}
+
+ul{
+    color: green;
+}
+
+#whiteLiId{
+    color: ivory;
+}
+
+#secondId{
+    border: 2px dotted rgb(38, 30, 83);
+}
+
+.puppydiv img{
+    width: 50px;
+}
